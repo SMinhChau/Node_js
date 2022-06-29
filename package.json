@@ -1,0 +1,29 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "nobe",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMinhChau/Node_js.git"
+  },
+  "keywords": [
+    "chau"
+  ],
+  "author": "chua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMinhChau/Node_js/issues"
+  },
+  "homepage": "https://github.com/SMinhChau/Node_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
